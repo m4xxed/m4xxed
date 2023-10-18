@@ -1,1 +1,3 @@
-#+TITLE: [[https://m4xxed.github.io/][MJH]]
+#+TITLE: m4xxed - programmer, scripter, automation enthusiast
+
+- [[https://m4xxed.github.io/][Personal Website]]
