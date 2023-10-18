@@ -1,3 +1,7 @@
 #+TITLE:
 
-[[file:res/test.png]]
+#+begin_src plantuml :file res/test.png :exports both
+@startuml
+A -> B
+@enduml
+#+end_src
