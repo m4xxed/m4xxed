@@ -1,7 +1,1 @@
-#+TITLE:
-
-#+begin_src plantuml :file res/test.png :exports both
-@startuml
-A -> B
-@enduml
-#+end_src
+#+TITLE: [[https://m4xxed.github.io/][MJH]]
